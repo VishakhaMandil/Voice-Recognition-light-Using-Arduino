@@ -30,6 +30,7 @@ Software Required
 
 Circuit Image
 =============
+https://github.com/VishakhaMandil/Voice-Recognition-light-Using-Arduino/blob/main/control-bulb-using-voice-circuit%20(1).jpg
 
 
 
