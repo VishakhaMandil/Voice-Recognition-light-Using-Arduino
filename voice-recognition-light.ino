@@ -25,11 +25,11 @@ void loop() {
     Serial.println(voice);
   //----------Control Light----------// 
 
-       if(voice == "*light on")       // To tune ON the bulb                   
+       if(voice == "light on")       // To tune ON the bulb                   
      {
      digitalWrite(relay, HIGH); 
      }  
-  else if(voice == "*light off")      // To turn OFF the bulb                        
+  else if(voice == "light off")      // To turn OFF the bulb                        
      {
     digitalWrite(relay, LOW);
      }  
